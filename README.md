@@ -1,7 +1,7 @@
 # About the project :dash:
 
-#ImersaoDev is a video series powered by @alura.
-Currency converter from USD and EUR to BRL (Brazilian Real)
+#ImersaoDev is a video series powered by @alura, where beginners are able to practice their development skills.
+Practical activity: Create a currency converter, which comprises values from USD and EUR to BRL (Brazilian Real).
 
 ## Technologies :computer: :mag:
 <ul>
